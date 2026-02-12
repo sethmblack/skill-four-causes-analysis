@@ -1,11 +1,10 @@
 ---
 name: four-causes-analysis
-description: Achieve complete understanding of anything by systematically examining
-  its material, formal, efficient, and final causes.
+description: Achieve complete understanding of anything by systematically examining its material, formal, efficient, and final causes.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - compression
 - four-causes-analysis
